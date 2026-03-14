@@ -30,10 +30,10 @@ Este conjunto de dados contém `registros relacionados ao diagnóstico de doenç
 Fonte dos dados: https://www.kaggle.com/datasets/amirmahdiabbootalebi/heart-disease
 <hr>
 
+<br></br>
 <div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Analyzing_the_Heart_Disease}/count.svg" /></p> 
-<br>  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+  <p><b><h3> Contagem de visitantes </h3></b></p>  
+  <img src="https://vbr.nathanchung.dev/badge?page_id=Adriano1976/Analyzing_the_Heart_Disease" style="height: 30px;" />
+   <br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
 </div>
